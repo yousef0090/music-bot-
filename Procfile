@@ -1,1 +1,2 @@
-worker: java -jar bot.jar -nogui
+worker:npm install discord.js --save
+
